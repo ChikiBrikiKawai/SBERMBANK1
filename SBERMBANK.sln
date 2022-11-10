@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBERMBANK", "SBERMBANK\SBERMBANK.csproj", "{27BE18B5-D748-4F28-98C1-F035B41BCAEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{FBB7A842-8DFC-420A-B5C9-B481E0E61005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BE18B5-D748-4F28-98C1-F035B41BCAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BE18B5-D748-4F28-98C1-F035B41BCAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BE18B5-D748-4F28-98C1-F035B41BCAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BE18B5-D748-4F28-98C1-F035B41BCAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB7A842-8DFC-420A-B5C9-B481E0E61005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB7A842-8DFC-420A-B5C9-B481E0E61005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB7A842-8DFC-420A-B5C9-B481E0E61005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB7A842-8DFC-420A-B5C9-B481E0E61005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CDD8296-51AC-43B0-8D29-5F21D539E9DD}
+	EndGlobalSection
+EndGlobal
